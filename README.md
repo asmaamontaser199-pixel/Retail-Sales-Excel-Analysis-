@@ -50,5 +50,8 @@ This project aims to address these core business challenges:
 ## 📁 Repository Structure
 
 * `Retail Sales Analytics Project.xlsx` - Master Excel workbook containing Power Query ETL, Power Pivot Data Model, Pivot Tables, and Interactive Dashboard.
+
+* 🔗 **Live Showcase & Visual Report:** [View Project on Maven Analytics](https://mavenshowcase.com/project/57868)
+
 * `Retail Sales Analytics Report.pdf` - Full executive business report with detailed findings, root-cause analysis, and strategic recommendations.
 * `/screenshots` - High-resolution images of the interactive dashboard and key report sections.
